@@ -6,16 +6,23 @@ This is a responsive, single-page personal portfolio project built using HTML, C
 🧠 Architecture & Technologies Used:
 Frontend:
 
-HTML5 (semantic structure)
-CSS3 with custom variables, light/dark theme, animations
-Responsive layout via Flexbox & Grid
-Iconography: Remix Icons, Font Awesome
+1.HTML5 (semantic structure) 
+
+2.CSS3 with custom variables, light/dark theme, animations
+
+3.Responsive layout via Flexbox & Grid
+
+4.Iconography: Remix Icons, Font Awesome
 
 JavaScript Functionality:
 
-Theme Toggle with localStorage to persist user preference
-Mobile Navigation Toggle (hamburger menu)
-Animated Header on Scroll (adds header--scroll class)
-ScrollReveal Animations on key sections (hero, skills, services, projects)
-Auto-Updating Footer Year
+1.Theme Toggle with localStorage to persist user preference
+
+2.Mobile Navigation Toggle (hamburger menu)
+
+3.Animated Header on Scroll (adds header--scroll class)
+
+4.ScrollReveal Animations on key sections (hero, skills, services, projects)
+
+5.Auto-Updating Footer Year
 
